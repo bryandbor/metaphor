@@ -4,7 +4,7 @@
 
 Metaphor is built for storing/accessing metadata which can be used within analytics. This metadata is commonly not used within your application for purposes such as rendering. Since metadata can change over time, Metaphor provides a simple API for adding, or updating, metadata with a simple Redux action.
 
-[![NPM](https://img.shields.io/npm/v/@bryandbor/metaphor.svg)](https://www.npmjs.com/package/@bryandbor/metaphor) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Package Size](https://badgen.net/packagephobia/publish/@bryandbor/metaphor.svg)](https://www.npmjs.com/package/@bryandbor/metaphor)
+[![NPM](https://img.shields.io/npm/v/@bryandbor/metaphor.svg)](https://www.npmjs.com/package/@bryandbor/metaphor) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Package Size](https://badgen.net/packagephobia/publish/@bryandbor/metaphor)](https://packagephobia.now.sh/result?p=%40bryandbor%2Fmetaphor) [![Weekly downloads](https://badgen.net/npm/dw/@bryandbor/metaphor)](https://www.npmjs.com/package/@bryandbor/metaphor)
 
 ## Install
 
