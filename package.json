@@ -63,5 +63,10 @@
     "dotty": "^0.1.0",
     "redux-actions": "^2.6.5",
     "reselect": "^4.0.0"
-  }
+  },
+  "keywords": [
+    "metadata",
+    "analytics",
+    "redux"
+  ]
 }
